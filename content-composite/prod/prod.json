@@ -1,0 +1,23 @@
+{
+  "name": "prod-project",
+  "version": "1.0.0",
+  "description": "prod Node.js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "keywords": [
+    "sample",
+    "node",
+    "express"
+  ],
+  "author": "John Doe",
+  "license": "MIT"
+}
